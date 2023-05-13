@@ -1,1 +1,1 @@
-This is Chapter 2
+This is Chapter 2. This is to experiment with Branch and Merge in Chapter 2.
